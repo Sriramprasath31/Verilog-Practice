@@ -1,6 +1,5 @@
-﻿*.vvp
-*.vcd
+﻿*.vcd
+*.vvp
+sim
 *.wlf
-*.vpd
-*.fst
 *.log
